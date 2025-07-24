@@ -1,0 +1,12 @@
+C:\Users\Kenny\source\repos\ConsoleApp1\Carnet d'adresse\WindowsFormsApp1\Canet_d_adresse\Canet_d_adresse\bin\Debug\Canet_d_adresse.exe.config
+C:\Users\Kenny\source\repos\ConsoleApp1\Carnet d'adresse\WindowsFormsApp1\Canet_d_adresse\Canet_d_adresse\bin\Debug\Canet_d_adresse.exe
+C:\Users\Kenny\source\repos\ConsoleApp1\Carnet d'adresse\WindowsFormsApp1\Canet_d_adresse\Canet_d_adresse\bin\Debug\Canet_d_adresse.pdb
+C:\Users\Kenny\source\repos\ConsoleApp1\Carnet d'adresse\WindowsFormsApp1\Canet_d_adresse\Canet_d_adresse\obj\Debug\Canet_d_adresse.csproj.AssemblyReference.cache
+C:\Users\Kenny\source\repos\ConsoleApp1\Carnet d'adresse\WindowsFormsApp1\Canet_d_adresse\Canet_d_adresse\obj\Debug\Canet_d_adresse.Form1.resources
+C:\Users\Kenny\source\repos\ConsoleApp1\Carnet d'adresse\WindowsFormsApp1\Canet_d_adresse\Canet_d_adresse\obj\Debug\Canet_d_adresse.Properties.Resources.resources
+C:\Users\Kenny\source\repos\ConsoleApp1\Carnet d'adresse\WindowsFormsApp1\Canet_d_adresse\Canet_d_adresse\obj\Debug\Canet_d_adresse.csproj.GenerateResource.cache
+C:\Users\Kenny\source\repos\ConsoleApp1\Carnet d'adresse\WindowsFormsApp1\Canet_d_adresse\Canet_d_adresse\obj\Debug\Canet_d_adresse.csproj.CoreCompileInputs.cache
+C:\Users\Kenny\source\repos\ConsoleApp1\Carnet d'adresse\WindowsFormsApp1\Canet_d_adresse\Canet_d_adresse\obj\Debug\Canet_d_adresse.exe
+C:\Users\Kenny\source\repos\ConsoleApp1\Carnet d'adresse\WindowsFormsApp1\Canet_d_adresse\Canet_d_adresse\obj\Debug\Canet_d_adresse.pdb
+C:\Users\Kenny\source\repos\ConsoleApp1\Carnet d'adresse\WindowsFormsApp1\Canet_d_adresse\Canet_d_adresse\obj\Debug\Canet_d_adresse.exe.config
+C:\Users\Kenny\source\repos\ConsoleApp1\Carnet d'adresse\WindowsFormsApp1\Canet_d_adresse\Canet_d_adresse\obj\Debug\Canet_d_adresse.Form2.resources
